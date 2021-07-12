@@ -1,0 +1,5 @@
+The dataset being used for this project is found directly from Yelp's website. It is part of an all purpose dataset meant for learning. 
+
+The link the data is at: https://www.yelp.com/dataset 
+
+The data is JSON formart and in this approach we will be uploading the data and cleaning it for use in Python. 
